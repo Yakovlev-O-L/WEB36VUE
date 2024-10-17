@@ -11,7 +11,7 @@
     <button v-else @click="userStore.logOut">LogOut</button>
   </HeaderComp>
 
-  <!-- {{ route }} -->
+  {{ route }} 
 
   <!-- <p> Query:
     {{ $route.query }}
